@@ -2,7 +2,7 @@
 
 Wichtige Bestandteile:
 * Zeitanzeige
-* Audioausgabe für Alarm-Weckton, Uhrzeit und Termine
+* [Audioausgabe](audio.md) für Alarm-Weckton, Uhrzeit und Termine
 * SD-Karte als Speicher für Termine und zugehörige Sprachnotizen
 * Stromversorgung
 * Alarm-Aus, um Weckton abzustellen
