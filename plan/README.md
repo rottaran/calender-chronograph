@@ -9,6 +9,7 @@ Wichtige Bestandteile:
 * Prozessor ESP32, um alles zu steuern
 * Schnittstelle, um Termine und Sprachnotizen zu bearbeiten
 * Zeitquelle (RTC Modul oder via WLAN)
+* [Poster für unsere Präsentation  auf der ESI](poster.md)
 
 Optionale Bestandteile:
 * IR Sender, um Fernseher mit Terminen fernzusteuern
